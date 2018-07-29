@@ -1,6 +1,6 @@
 PVector[] pos;
 PVector[] siz;
-int quantity = 6;
+int quantity = 7;
 
 void setup() {
   rectMode(CENTER);
